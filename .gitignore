@@ -1,0 +1,10 @@
+## node modules
+node_modules/
+
+## archivo de configuracion
+
+.env
+
+## Files
+
+dist/
